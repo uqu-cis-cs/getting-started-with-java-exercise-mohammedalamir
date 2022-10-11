@@ -1,4 +1,4 @@
-package edu.uqu.cs;
+
 
 /**
  * This a Maven based Java project.
@@ -13,8 +13,8 @@ package edu.uqu.cs;
  
 public class App
 {
-    private static void main( String[] args )
+    private static void main(String[] args )
     {
-        System.out.println( "mohammed,s443003132" );
+          System.out.println("mohammed,s443003132" );
     }
 }
