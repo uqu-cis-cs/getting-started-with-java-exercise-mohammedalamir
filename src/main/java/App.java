@@ -13,8 +13,8 @@
  
 public class App
 {
-    private static void main(String[] args )
+    public static void main(String[] args )
     {
-          System.out.println("mohammed,s443003132" );
+          System.out.println ("mohammed,s443003132" );
     }
 }
